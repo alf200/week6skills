@@ -1,5 +1,5 @@
-word_one = input("Enter a word:").casefold().strip() 
-word_two = input("Enter another word").casefold().strip() 
+word_one = input("Enter a word: ").casefold().strip()
+word_two = input("Enter another word: ").casefold().strip()
 
 word_one_list = list(word_one) 
 
